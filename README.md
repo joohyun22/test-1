@@ -96,4 +96,8 @@ add(x,y) {return x+y;]
 
 # 이미지 추가하기 
 
+**저장소 이미지** 삽입하기 
+
 ![대체 텍스트](이미지 파일 경로) 
+
+![프로필 이미지](https://github.com/joohyun22/test-1/blob/master/KakaoTalk_20251121_022858929_01.jpg)
